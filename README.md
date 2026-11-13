@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I am Ibrohim
 
-<!--
-**Tursunov006/Tursunov006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack developer and third-year Software Engineering student at KIU University, Uzbekistan.
 
-Here are some ideas to get you started:
+### Tech
+React, JavaScript, TypeScript, Node.js, Python, Flutter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+- EduYuz: https://github.com/Tursunov006/EduYuz
+- Sartaroshxona: barbershop booking and queue app: https://github.com/Tursunov006/sartaroshxona_complete
+- Navbatx: queue management app: https://github.com/Tursunov006/navbatx-queue-app
+- Dental clinic queue system, Django and PostgreSQL: https://github.com/Tursunov006/dental-clinic
+- Qashqadaryo mahallalari directory: https://github.com/Tursunov006/qashqadaryo-mahallalari
+
+### Open to
+Freelance and remote work. Contact me on Upwork or by email.
